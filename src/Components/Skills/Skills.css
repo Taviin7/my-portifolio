@@ -35,7 +35,7 @@
     padding: 15px;
 }
 
-.box-skills{
+.box-skills {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     width: 85vw;
@@ -44,11 +44,11 @@
     justify-content: center;
 }
 
-.main-container-skills{
+.main-container-skills {
     display: flex;
     width: 90vw;
     height: 40vw;
     align-items: center;
     justify-content: center;
-    
+
 }

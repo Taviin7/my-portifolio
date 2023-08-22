@@ -27,7 +27,7 @@
 .Img-Card img {
     height: 100%;
     width: 100%;
-    object-fit:cover;
+    object-fit: cover;
 }
 
 .Card-Info {
@@ -67,7 +67,7 @@
     transition: 0.3s;
 }
 
-.button-More a{
+.button-More a {
     text-decoration: none;
     color: aliceblue;
 }
