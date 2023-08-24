@@ -22,7 +22,7 @@ export default function Home() {
                 <div className='container'>
                     <div class="home-content">
                         <h1>Olá, eu sou o Otavio Lago!</h1>
-                        <h3>Desenvolvedor Full-Stack.</h3>
+                        <h3>Dev Full-Stack.</h3>
                         <p>Sou Técnico em Informática com ênfase em Desenvolvimento de Sistemas, e estou constantemente buscando ampliar mais meus conhecimentos sobre programação.
                             Tenho como objetivo evoluir tanto pessoalmente, como profissionalmente, aproveitando ao máximo cada oportunidade que surgir em minha carreira, e, claro, esforço e dedicação é o quê não falta!</p>
                     </div>
