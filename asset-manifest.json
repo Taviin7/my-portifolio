@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portifolio/static/css/main.0e3fde46.css",
+    "main.js": "/my-portifolio/static/js/main.92373d5f.js",
+    "static/js/787.53b2a456.chunk.js": "/my-portifolio/static/js/787.53b2a456.chunk.js",
+    "static/media/astrounata.png": "/my-portifolio/static/media/astrounata.913810f9d52154d27674.png",
+    "static/media/logo-proveit.png": "/my-portifolio/static/media/logo-proveit.ae8dbaa12f6e73d32056.png",
+    "static/media/logo-quickJobs.png": "/my-portifolio/static/media/logo-quickJobs.0859d5555acb98ee260c.png",
+    "index.html": "/my-portifolio/index.html",
+    "main.0e3fde46.css.map": "/my-portifolio/static/css/main.0e3fde46.css.map",
+    "main.92373d5f.js.map": "/my-portifolio/static/js/main.92373d5f.js.map",
+    "787.53b2a456.chunk.js.map": "/my-portifolio/static/js/787.53b2a456.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3fde46.css",
+    "static/js/main.92373d5f.js"
+  ]
+}
